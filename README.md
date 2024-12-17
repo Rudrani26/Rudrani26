@@ -1,8 +1,6 @@
 <h1 align="center">Hello 🤩 I'm Rudrani Chavarkar</h1>
 <h3 align="center">Aspiring Software Developer</h3>
 
-- 🔭 I’m currently working on **Purrfect**
-
 - 📫 How to reach me **rudranichavarkar26@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
